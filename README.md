@@ -49,4 +49,4 @@ This project is a **Candidate Management System** built using Hibernate, impleme
 ✔️ List all candidates  
 
 ## 📎 GitHub Repository
-🔗 **[Repository Link]** (Add your GitHub repo link here)
+🔗 **https://github.com/gavhanenikhil11/Candidate_Management_System** 
